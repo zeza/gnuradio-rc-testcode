@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<block>
+  <name>bind_code</name>
+  <key>flysky_bind_code</key>
+  <category>flysky</category>
+  <import>import flysky</import>
+  <make>flysky.bind_code(bind_code)</make>
+  <param>
+    <name>flysky_id</name>
+    <key>flysky_id</key>
+    <type>int</type>
+  </param>
+  <source>
+    <name>out</name>
+    <type>byte</type>
+  </source>
+</block>

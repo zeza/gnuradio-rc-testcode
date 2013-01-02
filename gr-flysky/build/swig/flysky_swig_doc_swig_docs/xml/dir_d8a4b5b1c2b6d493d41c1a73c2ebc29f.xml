@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.3">
+  <compounddef id="dir_d8a4b5b1c2b6d493d41c1a73c2ebc29f" kind="dir">
+    <compoundname>/shampoo/sdr/projects/gr-flysky/include/</compoundname>
+    <innerfile refid="flysky__api_8h">flysky_api.h</innerfile>
+    <innerfile refid="flysky__bind__code_8h">flysky_bind_code.h</innerfile>
+    <innerfile refid="flysky__dumpsync_8h">flysky_dumpsync.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/shampoo/sdr/projects/gr-flysky/include/"/>
+  </compounddef>
+</doxygen>

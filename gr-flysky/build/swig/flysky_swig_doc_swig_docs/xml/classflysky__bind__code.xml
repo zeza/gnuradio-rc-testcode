@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.3">
+  <compounddef id="classflysky__bind__code" kind="class" prot="public">
+    <compoundname>flysky_bind_code</compoundname>
+    <includes refid="flysky__bind__code_8h" local="no">flysky_bind_code.h</includes>
+      <sectiondef kind="friend">
+      <memberdef kind="friend" id="classflysky__bind__code_1abc92eccbf9e917fcde8aea7ee6503679" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>friend __GR_ATTR_IMPORT <ref refid="flysky__bind__code_8h_1af90bde2743c3c19762bcac3f84c72ffb" kindref="member">flysky_bind_code_sptr</ref></type>
+        <definition>__GR_ATTR_IMPORT flysky_bind_code_sptr flysky_make_bind_code</definition>
+        <argsstring>(int bind_code)</argsstring>
+        <name>flysky_make_bind_code</name>
+        <param>
+          <type>int</type>
+          <declname>bind_code</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/shampoo/sdr/projects/gr-flysky/include/flysky_bind_code.h" line="38"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classflysky__bind__code_1aa2ffeec7a9c3c806fd66992b09ac1988" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>flysky_bind_code::flysky_bind_code</definition>
+        <argsstring>(int bind_code)</argsstring>
+        <name>flysky_bind_code</name>
+        <param>
+          <type>int</type>
+          <declname>bind_code</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/shampoo/sdr/projects/gr-flysky/include/flysky_bind_code.h" line="40"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classflysky__bind__code_1a626223c4094bd8aa0c3a46cf2968d381" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>flysky_bind_code::~flysky_bind_code</definition>
+        <argsstring>()</argsstring>
+        <name>~flysky_bind_code</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/shampoo/sdr/projects/gr-flysky/include/flysky_bind_code.h" line="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classflysky__bind__code_1a8716662cc361ba17afb948cfc3d4a410" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int flysky_bind_code::work</definition>
+        <argsstring>(int noutput_items, gr_vector_const_void_star &amp;input_items, gr_vector_void_star &amp;output_items)</argsstring>
+        <name>work</name>
+        <param>
+          <type>int</type>
+          <declname>noutput_items</declname>
+        </param>
+        <param>
+          <type>gr_vector_const_void_star &amp;</type>
+          <declname>input_items</declname>
+        </param>
+        <param>
+          <type>gr_vector_void_star &amp;</type>
+          <declname>output_items</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/shampoo/sdr/projects/gr-flysky/include/flysky_bind_code.h" line="48"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>&lt;+description+&gt; </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/shampoo/sdr/projects/gr-flysky/include/flysky_bind_code.h" line="37" bodyfile="/shampoo/sdr/projects/gr-flysky/include/flysky_bind_code.h" bodystart="36" bodyend="49"/>
+    <listofallmembers>
+      <member refid="classflysky__bind__code_1aa2ffeec7a9c3c806fd66992b09ac1988" prot="private" virt="non-virtual"><scope>flysky_bind_code</scope><name>flysky_bind_code</name></member>
+      <member refid="classflysky__bind__code_1abc92eccbf9e917fcde8aea7ee6503679" prot="private" virt="non-virtual"><scope>flysky_bind_code</scope><name>flysky_make_bind_code</name></member>
+      <member refid="classflysky__bind__code_1a8716662cc361ba17afb948cfc3d4a410" prot="public" virt="non-virtual"><scope>flysky_bind_code</scope><name>work</name></member>
+      <member refid="classflysky__bind__code_1a626223c4094bd8aa0c3a46cf2968d381" prot="public" virt="non-virtual"><scope>flysky_bind_code</scope><name>~flysky_bind_code</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

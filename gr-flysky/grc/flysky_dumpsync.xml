@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<block>
+  <name>dumpsync</name>
+  <key>flysky_dumpsync</key>
+  <category>flysky</category>
+  <import>import flysky</import>
+  <make>flysky.dumpsync()</make>
+
+  <sink>
+    <name>in</name>
+    <type>byte</type>
+  </sink>
+
+</block>

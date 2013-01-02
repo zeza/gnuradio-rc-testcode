@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.3">
+  <compounddef id="classflysky__dumpsync" kind="class" prot="public">
+    <compoundname>flysky_dumpsync</compoundname>
+    <includes refid="flysky__dumpsync_8h" local="no">flysky_dumpsync.h</includes>
+      <sectiondef kind="friend">
+      <memberdef kind="friend" id="classflysky__dumpsync_1abeaecb80e057f7fc54e70a83e8c24d93" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>friend __GR_ATTR_IMPORT <ref refid="flysky__dumpsync_8h_1a300716cfb4ec861408a518507d2c55d8" kindref="member">flysky_dumpsync_sptr</ref></type>
+        <definition>__GR_ATTR_IMPORT flysky_dumpsync_sptr flysky_make_dumpsync</definition>
+        <argsstring>()</argsstring>
+        <name>flysky_make_dumpsync</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/shampoo/sdr/projects/gr-flysky/include/flysky_dumpsync.h" line="38"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classflysky__dumpsync_1ab4c3e0572f358d6601b072d9332f7a39" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>flysky_dumpsync::flysky_dumpsync</definition>
+        <argsstring>()</argsstring>
+        <name>flysky_dumpsync</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/shampoo/sdr/projects/gr-flysky/include/flysky_dumpsync.h" line="40"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classflysky__dumpsync_1a708a64bc7dfd2f82e0c1de74a6fb5559" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>flysky_dumpsync::~flysky_dumpsync</definition>
+        <argsstring>()</argsstring>
+        <name>~flysky_dumpsync</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/shampoo/sdr/projects/gr-flysky/include/flysky_dumpsync.h" line="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classflysky__dumpsync_1af549823a501c09c712590bde6953401d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int flysky_dumpsync::work</definition>
+        <argsstring>(int noutput_items, gr_vector_const_void_star &amp;input_items, gr_vector_void_star &amp;output_items)</argsstring>
+        <name>work</name>
+        <param>
+          <type>int</type>
+          <declname>noutput_items</declname>
+        </param>
+        <param>
+          <type>gr_vector_const_void_star &amp;</type>
+          <declname>input_items</declname>
+        </param>
+        <param>
+          <type>gr_vector_void_star &amp;</type>
+          <declname>output_items</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/shampoo/sdr/projects/gr-flysky/include/flysky_dumpsync.h" line="48"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>&lt;+description+&gt; </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/shampoo/sdr/projects/gr-flysky/include/flysky_dumpsync.h" line="37" bodyfile="/shampoo/sdr/projects/gr-flysky/include/flysky_dumpsync.h" bodystart="36" bodyend="49"/>
+    <listofallmembers>
+      <member refid="classflysky__dumpsync_1ab4c3e0572f358d6601b072d9332f7a39" prot="private" virt="non-virtual"><scope>flysky_dumpsync</scope><name>flysky_dumpsync</name></member>
+      <member refid="classflysky__dumpsync_1abeaecb80e057f7fc54e70a83e8c24d93" prot="private" virt="non-virtual"><scope>flysky_dumpsync</scope><name>flysky_make_dumpsync</name></member>
+      <member refid="classflysky__dumpsync_1af549823a501c09c712590bde6953401d" prot="public" virt="non-virtual"><scope>flysky_dumpsync</scope><name>work</name></member>
+      <member refid="classflysky__dumpsync_1a708a64bc7dfd2f82e0c1de74a6fb5559" prot="public" virt="non-virtual"><scope>flysky_dumpsync</scope><name>~flysky_dumpsync</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
